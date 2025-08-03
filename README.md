@@ -19,12 +19,7 @@
 
 ---
 
-📫 **Contact:** [LinkedIn/GitHub/Email]  
+📫 **Contact:** [LinkedIn/GitHub/cyberfly.exe@gmail.com]  
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=butterfly991&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=butterfly991&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=butterfly991&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

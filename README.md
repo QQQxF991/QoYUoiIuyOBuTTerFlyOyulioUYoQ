@@ -1,84 +1,22 @@
 **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)**  
-Специализация на создании распределённых, энергоэффективных решений для вычислительно-нагруженных задач с использованием математико-инженерных методик.
-
-# Low-Level & High-Performance Systems Engineer (Safety-Critical)
-
-**Specialization:** Development of high-load, optimized, and scalable solutions for cloud banking, desktop systems, embedded, aviation, robotics, nuclear systems, and operating systems. Focus on computational power, architectural flexibility, and safety-critical compliance.
-
 ---
 
 ### 🔧 Core Technical Proficiencies
 
 #### **Programming Languages**  
-`C++` · `C` · `Rust` · `Ada` · `Python` · `Assembly (x86/ARM)`  
+`C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)`· `Bash`  
 
 #### **Parallel Computing & Acceleration**  
 - **SIMD Extensions:**  
-  `AVX-512` · `AVX2` · `FMA` · `SSE4.2/SSE3` · `SSE/SSE2` · `NEON` · `HELIUM`  
+  `AVX-512/AVX2` · `FMA` · `SSE/SSE2/SSE4.2/SSE3` · `NEON` · `HELIUM` 
 - **GPU Programming:**  
-  `CUDA` · `OpenCL` · `Vulkan` · `Metal` · `OpenGL`  
+  `CUDA` · `OpenCL` · `Vulkan` · `Metal` · `OpenGL` · `ROCm` · `HIP`  
 
 #### **Toolchains & Compilers**  
-`GCC` · `Clang` · `G++` · `Clang++`  
-
-#### **Embedded Systems & Hardware**  
-- Hardware/PCB schematics, electronics engineering, and platform architecture.  
-- CPU/GPU/RAM microarchitecture optimization.  
-- Bare-metal and RTOS development.  
+`GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  
 
 #### **DevOps & Infrastructure**  
 `CI/CD Pipelines` · `Integration Testing` · `Benchmarking`  
-
----
-
-### 🧮 Mathematical Expertise  
-Comprehensive knowledge spanning:  
-- **Pure Mathematics:**  
-  Real/Complex Analysis · Differential Equations · Topology · Algebra · Number Theory · Geometry · Mathematical Logic  
-- **Applied Mathematics:**  
-  Numerical Methods · Mathematical Physics · Probability Theory · Statistics · Stochastic Processes  
-- **Computational Mathematics:**  
-  Discrete Mathematics · Linear Algebra · Optimization · Variational Calculus  
-- **Foundational:**  
-  Trigonometry · Arithmetic · Elementary Functions · Analytical Geometry  
-
----
-
-### 🚀 Performance Optimization & Engineering  
-- **High-Performance Computing (HPC):**  
-  Design of latency-sensitive systems with focus on instruction-level parallelism, cache optimization, and lock-free algorithms.  
-- **Resource-Constrained Environments:**  
-  Memory/cycle optimization for embedded and safety-critical systems (DO-178C, IEC 61508).  
-- **Cross-Platform Optimization:**  
-  Leveraging ISA-specific features (x86/ARM) for compute-intensive workloads.  
-
----
-
-### 🛠️ Systems Development  
-- **Operating Systems:**  
-  Kernel modules, drivers, and real-time scheduling.  
-- **Cloud Systems:**  
-  Distributed systems for financial and nuclear applications.  
-- **Robotics & Avionics:**  
-  Fail-safe control systems and sensor fusion.  
-
----
-
-### 🔬 Testing & Verification  
-- **Safety-Critical Validation:**  
-  SIL/DO-254 compliance, fault injection, and static/dynamic analysis.  
-- **Benchmarking:**  
-  Performance profiling (perf, VTune) and regression testing.  
-
----
-
-### 🎓 Professional Ethos  
-- **Technical Interests:**  
-  Complex data structures, algorithms, and hardware-software co-design.  
-- **Development Philosophy:**  
-  Rigorous attention to determinism, concurrency safety, and zero-overhead abstraction.  
-- **Continuous Growth:**  
-  Pursuit of cutting-edge projects in computational engineering and applied mathematics.  
 
 ---
 

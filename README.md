@@ -1,5 +1,6 @@
 
  <i> <h3><b> **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)** </b> </h3>
+<hr>
  
 **Programming Languages:** <br>
  `C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)` · `Bash`

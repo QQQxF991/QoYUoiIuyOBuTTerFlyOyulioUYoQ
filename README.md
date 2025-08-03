@@ -1,5 +1,6 @@
 **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)**  
 ---
+
 #### **Programming Languages**  
 `C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)`· `Bash`  
 #### **Parallel Computing & Acceleration**  
@@ -11,4 +12,5 @@
 `GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  
 #### **DevOps & Infrastructure**  
 `CI/CD Pipelines` · `Integration Testing` · `Benchmarking`  
+
 ---

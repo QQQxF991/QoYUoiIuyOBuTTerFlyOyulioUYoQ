@@ -9,9 +9,9 @@
 **GPU Programming:**  
   `CUDA` · `OpenCL` · `Vulkan` · `Metal` · `OpenGL` · `ROCm` · `HIP`  
 
-**Toolchains & Compilers**  
+**Toolchains & Compilers:**  
 `GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  
 
-**DevOps & Infrastructure**  
+**DevOps & Infrastructure:**  
 `CI/CD` · `Integration Testing` · `Benchmarking`  
 

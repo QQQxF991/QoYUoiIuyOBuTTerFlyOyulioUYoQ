@@ -1,70 +1,11 @@
-# 🚀 Высокопроизводительные системы | Low-Level Оптимизация | Архитектурные Решения
-
 **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)**  
 Специализация на создании распределённых, энергоэффективных решений для вычислительно-нагруженных задач с использованием математико-инженерных методик.
 
 ---
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat-square) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=butterfly991&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=butterfly991&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=butterfly991&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔧 Технический Стек
-### 🖥 Языки & Компиляторы
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Ada](https://img.shields.io/badge/Ada-02D88F?logo=ada&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![ASM](https://img.shields.io/badge/ASM-2C2255?logo=assemblyscript&logoColor=white)  
-`GCC` • `Clang` • `G++` • `Clang++`
-
-### ⚡ Векторизация & Параллелизм
-**SIMD:** `AVX512` • `AVX2` • `FMA` • `SSE4.2/SSE3` • `SSE/SSE2`  
-**ARM:** `NEON` • `HELIUM`  
-**GPU:** `CUDA` • `OpenCL` • `Vulkan` • `Metal` • `OpenGL`
-
-### 🧩 Системная Интеграция
-`Embedded` • `DevOps/CI-CD` • `Бенчмарк-тестирование` • `Интеграционное тестирование`
-
----
-
-## 🧠 Экспертные Области
-### ⚙️ Инженерия & Аппаратура
-- Микроархитектура CPU/GPU: конвейеризация, кэши, предвыборка
-- Память: иерархии, стробирование, low-latency паттерны
-- Схемотехника и электротехнические аспекты плат
-- Оптимизация энергопотребления и тепловых профилей
-
-### 🧮 Прикладная Математика
-<details>
-<summary>📐 Развернуть дисциплины</summary>
-
-**Фундаментальные**  
-• Матанализ • Дифуры (ОДУ/УРЧП) • Теория функций комплексного переменного  
-• Линейная/Мультилинейная алгебра • Аналитическая геометрия • Топология  
-
-**Дискретные**  
-• Комбинаторика • Теория графов • Матлогика • Теория чисел  
-
-**Вероятностные**  
-• Теория вероятностей • Стохастические процессы • Матстатистика  
-
-**Вычислительные**  
-• Численные методы • Оптимизация (вариационное исчисление) • Методы матфизики  
-</details>
-
----
-
-## 🎯 Проектный Фокус
-- **Performance Critical Systems**: real-time обработка, HFT, DSP  
-- **Алгоритмические ядра**: оптимизированные реализации численных методов  
-- **Cross-Platform HAL**: абстракции под разнородные ускорители  
-- **Resource-Constrained Environments**: embedded/IoT с гарантиями QoS  
-- **Технологические привязки**: от bare-metal до гетерогенных кластеров
-
----
-
-## 📚 Профессиональные Принципы
-```text
-1. Доказательная оптимизация: профилирование → векторизация → ассемблерная вставка
-2. Аппаратно-ориентированный дизайн: учет cache-line, branch prediction, memory alignment
-3. Детерминированная разработка: формальные методы (TLA+, SPARK)
-4. Ресурсная эффективность: throughput/latency/power tradeoffs
-5. Архитектурная гибкость: слоистая абстракция + zero-cost интерфейсы
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

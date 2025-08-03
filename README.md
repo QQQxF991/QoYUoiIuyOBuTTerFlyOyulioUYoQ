@@ -4,9 +4,10 @@
 #### **Programming Languages**  
 `C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)`· `Bash`  
 #### **Parallel Computing & Acceleration**  
-#### **SIMD Extensions:**  
+**SIMD Extensions:**  
   `AVX-512/AVX2` · `FMA` · `SSE/SSE2/SSE4.2/SSE3` · `NEON` · `HELIUM` 
-#### **GPU Programming:**  
+<br>
+**GPU Programming:**  
   `CUDA` · `OpenCL` · `Vulkan` · `Metal` · `OpenGL` · `ROCm` · `HIP`  
 #### **Toolchains & Compilers**  
 `GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  

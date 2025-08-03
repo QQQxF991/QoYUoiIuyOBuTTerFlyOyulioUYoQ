@@ -1,7 +1,7 @@
 
  ## Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)
  
-**Programming Languages:** 
+**Programming Languages:** <br>
  `C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)` · `Bash`
 
 **SIMD Extensions:**  

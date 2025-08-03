@@ -1,4 +1,4 @@
-<div align="center">
+
  
  ## Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)
  ### **Programming Languages** 
@@ -16,4 +16,3 @@
  ####  **DevOps & Infrastructure**  
 `CI/CD` · `Integration Testing` · `Benchmarking`  
 
-</div>

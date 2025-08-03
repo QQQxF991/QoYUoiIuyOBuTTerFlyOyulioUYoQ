@@ -14,6 +14,6 @@
 `GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  
 
  ####  **DevOps & Infrastructure**  
-`CI/CD Pipelines` · `Integration Testing` · `Benchmarking`  
+`CI/CD` · `Integration Testing` · `Benchmarking`  
 
 </div>

@@ -2,15 +2,16 @@
 <b>Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)</b>  
 
 #### **Programming Languages**  
-`C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)`· `Bash`  
+`C++` · `C` · `Rust` · `Ada` · `Python` · `Haskell` · `Assembly (x86/ARM)`· `Bash` 
+<br>
+<br>
 **SIMD Extensions:**  
   `AVX-512/AVX2` · `FMA` · `SSE/SSE2/SSE4.2/SSE3` · `NEON` · `HELIUM` 
 <br>
 <br>
 **GPU Programming:**  
   `CUDA` · `OpenCL` · `Vulkan` · `Metal` · `OpenGL` · `ROCm` · `HIP`  
-<br>
-<br>
+
  **Toolchains & Compilers**  
 `GCC/G++` · `Clang/Clang++` · `Conan/Vcpkg` · `Cmake/Make/Ninja`  
 <br> **DevOps & Infrastructure**  

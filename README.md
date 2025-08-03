@@ -1,3 +1,4 @@
+<div allign="center"> 
 **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)**  
 ---
 
@@ -14,3 +15,4 @@
 `CI/CD Pipelines` · `Integration Testing` · `Benchmarking`  
 
 ---
+</div>

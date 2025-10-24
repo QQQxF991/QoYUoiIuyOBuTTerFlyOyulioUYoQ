@@ -1,5 +1,5 @@
 
- <i> <h3><b> **Software engineer** </b> </h3>
+ <i> <h3><b> **Low-Level & High-Performance Systems Engineer - Developer (Safety-Critical)** </b> </h3>
 <hr>
  
 **Programming Languages:** <br>

@@ -3,7 +3,7 @@
 <hr>
  
 **Programming Languages:** <br>
- `C++` · `C` · `Assembly (x86/ARM)` · `Rust` ·  `Python` · `Ada` · `Haskell` · `Bash`
+ `C++` · `C` · `Assembly (x86/ARM)` · `Rust` ·  `Python` · `Bash`
 
 **SIMD Extensions:**  
   `AVX-512/AVX2` · `FMA` · `SSE/SSE2/SSE4.2/SSE3` · `NEON` · `HELIUM` 
